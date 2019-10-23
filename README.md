@@ -1,4 +1,5 @@
 # Galacticode
+<img src="https://res.cloudinary.com/dw675k0f5/image/upload/v1571869842/storo/Screenshot_from_2019-10-24_01-30-15.png" />
 _Galacticode uses a 3D gaming interface to guide users through increasingly difficult JavaScript challenges._
 
 Nova the alien is lost in space and needs help getting home after running out of fuel on an unfamiliar planet. Use your foundational JavaScript skills to solve coding challenges, gain fuel points, unlock planets, and guide Nova home.
