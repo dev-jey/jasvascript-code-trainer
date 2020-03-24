@@ -44,7 +44,7 @@
     "express-session": "^1.15.1",
     "history": "^4.6.3",
     "mochawesome": "^3.0.3",
-    "morgan": "^1.8.1",
+    "morgan": "^1.9.1",
     "passport": "^0.3.2",
     "passport-github": "^1.1.0",
     "passport-google-oauth": "^1.0.0",
